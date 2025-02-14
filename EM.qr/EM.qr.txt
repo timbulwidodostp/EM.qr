@@ -4,7 +4,7 @@
 # Quantile Regression Using Asymmetric Laplace Distribution Use EM.qr (ALDqr) With (In) R Software
 install.packages("ALDqr")
 library("ALDqr")
-spml_one = read.csv("https://raw.githubusercontent.com/timbulwidodostp/spml/main/spml/spml_one.csv",sep = ";")
+EM.qr = read.csv("https://raw.githubusercontent.com/timbulwidodostp/EM.qr/main/EM.qr/EM.qr.csv",sep = ";")
 # Estimation Quantile Regression Using Asymmetric Laplace Distribution Use EM.qr (ALDqr) With (In) R Software
 attach(EM.qr)
 GenderInd <- (Gender=="female") + 0
