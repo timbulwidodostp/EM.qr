@@ -1,6 +1,8 @@
 # EM.qr
 Quantile Regression Using Asymmetric Laplace Distribution Use EM.qr (ALDqr) With (In) R Software
 
+https://www.youtube.com/watch?v=Q3tYvEhEjyQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
